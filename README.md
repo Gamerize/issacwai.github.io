@@ -1,6 +1,6 @@
 # issacwai.github.io
 
-
+![Profile Pic](https://github.com/Gamerize/Task-1/blob/main/download.png)
 
 Hello, I am Issac Wai
 
