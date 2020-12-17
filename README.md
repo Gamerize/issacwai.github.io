@@ -1,3 +1,3 @@
 # issacwai.github.io
 
--Hello, welcom to my portfolio
+Hello, welcome to my portfolio
