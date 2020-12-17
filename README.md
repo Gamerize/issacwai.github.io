@@ -2,7 +2,7 @@
 
 ![Profile Pic](https://github.com/Gamerize/issacwai.github.io/blob/main/images/pic01.jpg)
 
-Hello, I am Issac Wai
+Hello, I am Issac Wai.
 
 Welcome to my portfolio.
 
